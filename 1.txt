@@ -1,8 +1,0 @@
-Hello Git
-Hello Git
-Git is awasome
-Eugene is awasome too
-Wow
-New branch
-Complicate line to merge 
-2nd Complicate line to merge 
